@@ -1,14 +1,14 @@
-# How to build a hacktop
+# How to build a Pi Hacktop
 ## Introduction
 Before I started using my ODroid as my primary Single-Board Computer (SBC), I used a Rasberry Pi B.  With the introduction of the Rasberry Pi B+, creating a hacktop is so much better.
 
 ## What you'll need for this project
 
-* Raspberry Pi B+
-* A Raspberry Pi B+ enclosure
+* Raspberry Pi B+ (If you have a Pi B, you can still do this.)
+* A Raspberry Pi B+ enclosure (if you have a Pi B, then Pi B enclosure.)
 * Stick-on heat disappators
 * A Motorola Atrix Lapdock (search eBay!) (Don't get the Motorola 100 or 500 Lapdock.  I think the Lapdock for the Motorola Droid Bionic should be OK. The only difference is that the Atirx and Bionic's microUSB and microHDMI ports are on different sides.) Be sure that it comes with the charger.
-* 16 GB SD card or larger (8 GB is NOT enough; you can get it cheap at MicroCenter) with a Kang image loaded on it.
+* 16 GB SD card or larger (8 GB is NOT enough; you can get it cheap at MicroCenter) with a Kang image loaded on it. 32 GB is recommended.
 * Wifi Dongle (I find Trendnet's N150 to be discreet as well as good enough for any Raspberry Pi or ODroid project.)
 * A roll of black industrial Velcro. (About 10 feet. You can find this at your local hardware store. The width should be 1 inch.)
 * A pair of fabric shears (used to cut the Velcro)
