@@ -8,7 +8,7 @@ Before I started using my ODroid as my primary Single-Board Computer (SBC), I us
 * A Raspberry Pi B+ enclosure (if you have a Pi B, then Pi B enclosure.)
 * Stick-on alluminum heatsinks. (You can find these on Amazon for about $5. Although I'm pretty sure if you get your enclosure at MicroCenter, they come with the enclosure.)
 * A Motorola Atrix Lapdock (search eBay!) (Don't get the Motorola 100 or 500 Lapdock.  I think the Lapdock for the Motorola Droid Bionic should be OK. The only difference is that the Atirx and Bionic's microUSB and microHDMI ports are on different sides.) Be sure that it comes with the charger.
-* 16 GB SD card or larger (8 GB is NOT enough; you can get it cheap at MicroCenter) with a Kang image loaded on it. 32 GB is recommended.
+* A Class 10/U-1 microSD Card. 16 GB or larger (8 GB is NOT enough; you can get it cheap at MicroCenter) with a Kang image loaded on it. 32 GB is recommended.
 * Wifi Dongle (I find Trendnet's N150 to be discreet as well as good enough for any Raspberry Pi or ODroid project.)
 * A roll of black industrial Velcro. (About 10 feet. You can find this at your local hardware store. The width should be 1 inch.)
 * A pair of fabric shears (used to cut the Velcro)
