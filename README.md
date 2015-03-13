@@ -1,3 +1,6 @@
+# Decomissioned!
+Merging kang with [Rigel](https://github.com/jrcharney/rigel).
+
 kang
 ====
 
